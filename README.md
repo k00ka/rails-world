@@ -55,7 +55,7 @@ We use [Typos](https://github.com/crate-ci/typos) as a spell checker.
 
 #### Optional - Running linters' auto-fix before a commit
 
-[Leftook](https://github.com/evilmartians/lefthook) will execute the linters' auto-fix on staged files and abort the commit if there are offenses that can't be auto-fixed.
+[Lefthook](https://github.com/evilmartians/lefthook) will execute the linters' auto-fix on staged files and abort the commit if there are offenses that can't be auto-fixed.
 Run the following commands to enable this flow:
 
 ```
